@@ -4,6 +4,7 @@ Soft I2C and FDC1004 Capacity Read Example
 # Capacitive-Measurement
 -----
 ### Capacitance method for measuring the level of a fluid.
+# About FDC1004
 
 Capacitive fluid level sensors are measurement devices which typically consist of a single probe which acts as an immersed electrode inside a tank. This probe interacts with an opposite electrode, usually the wall of a tank, and the two are connected together to form a capacitor.
 
