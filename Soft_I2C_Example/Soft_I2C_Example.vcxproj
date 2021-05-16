@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FDC1004_Test_Driver.cpp" />
     <ClCompile Include="SoftI2C_Driver.cpp" />
     <ClCompile Include="Soft_I2C_Example.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FDC1004_Test_Driver.h" />
     <ClInclude Include="SoftI2C_Driver.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

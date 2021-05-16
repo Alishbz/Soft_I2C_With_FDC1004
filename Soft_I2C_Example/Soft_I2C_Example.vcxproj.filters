@@ -21,9 +21,15 @@
     <ClCompile Include="SoftI2C_Driver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FDC1004_Test_Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SoftI2C_Driver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FDC1004_Test_Driver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
