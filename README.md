@@ -28,7 +28,8 @@ The created C ++ classes are portable. After you design your own top layer speci
     Language                : Embedded C++ 
     Communication Interface : Soft I2C
     IDE                     : Suitable for all
+    Developer               : Ali Sahbaz
     
 -----
-
+Developed by Ali Sahbaz
 ali_sahbaz@outlook.com
