@@ -1,4 +1,15 @@
-
+﻿/*
+*
+* This ProjectThe purpose of this presentation is testing and education.
+* You can integrate it into your commercial projects. It is open to development.
+*
+* You can contact me if you have any comments or questions.
+*
+*
+* Developed By Ali Şahbaz
+* 16.05.2021
+* ali_sahbaz@outlook.com
+*/
 #include <iostream>
 #include "SoftI2C_Driver.h"
 
