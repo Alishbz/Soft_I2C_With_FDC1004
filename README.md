@@ -1,6 +1,6 @@
 # Soft_I2C_With_FDC1004
 
-### Soft I2C and FDC1004 Capacity Read Example
+### Soft I2C and FDC1004 Capacity Read Example. Soft I2C means; you dont need I2C peripheral in MCU side. Use just 2 GPIO , and my this driver will emulate I2C.
 
 # Capacitive-Measurement
 -----
